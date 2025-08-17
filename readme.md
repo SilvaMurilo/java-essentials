@@ -40,7 +40,7 @@ Este repositório tem como objetivo demonstrar os conceitos básicos de **Java**
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repo.git
+   git clone git@github.com:SilvaMurilo/java-essentials.git
 
 ## Créditos
 
