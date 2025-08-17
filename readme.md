@@ -41,3 +41,13 @@ Este repositório tem como objetivo demonstrar os conceitos básicos de **Java**
 1. Clone este repositório:
    ```bash
    git clone https://github.com/seu-usuario/nome-do-repo.git
+
+## Créditos
+
+Este projeto foi inspirado/ilustrado com base no conteúdo criado pela **Fernanda Kipper**.  
+Original disponibilizado no canal do YouTube ** Fernanda Kipper | Dev**:  
+[Curso de PROGRAMAÇÃO JAVA para INICIANTES | Fundamentos + Programação Orientada Objetos](https://www.youtube.com/watch?v=nODe5lFcGpg)
+
+
+Obrigado, Kipper pela inspiração e por compartilhar seu trabalho criativo!
+
