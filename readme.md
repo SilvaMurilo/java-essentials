@@ -1,10 +1,10 @@
-# 🚀 Fundamentos de Java e Programação Orientada a Objetos (POO)
+# Fundamentos de Java e Programação Orientada a Objetos (POO)
 
 Este repositório tem como objetivo demonstrar os conceitos básicos de **Java** e os pilares da **Programação Orientada a Objetos (POO)** de forma prática e simples.
 
 ---
 
-## 📚 Conteúdo
+## Conteúdo
 
 - **Introdução ao Java**
     - Estrutura de um programa Java
