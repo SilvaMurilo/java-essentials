@@ -29,14 +29,14 @@ Este repositório tem como objetivo demonstrar os conceitos básicos de **Java**
 
 ---
 
-## ⚙️ Requisitos
+## Requisitos
 
 - [Java JDK 17+](https://adoptium.net/) (ou versão mais recente)
 - IDE recomendada: [IntelliJ IDEA](https://www.jetbrains.com/idea/) ou [Eclipse](https://www.eclipse.org/)
 
 ---
 
-## ▶️ Como executar
+## Como executar
 
 1. Clone este repositório:
    ```bash
